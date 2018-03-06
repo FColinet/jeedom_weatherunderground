@@ -1,0 +1,11 @@
+{
+    "id" : "weatherunderground",
+    "name" : "Weather Underground",
+    "description" : "Plugin pour Weather Underground",
+    "licence" : "AGPL",
+    "author" : "Florent",
+    "require" : "3.0",
+    "category" : "weather",
+    "hasDependency" : false,
+    "hasOwnDeamon" : false
+}
